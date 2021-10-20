@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1F0F2C3B-1A49-4219-A3E6-6CAECF4463C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.PermanYagmyrov3131A PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PermanYagmyrov3131A/Program.cs">
+    <Files>
+      <File FileName="PermanYagmyrov3131A/Program.cs" Line="68" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yagmyrov" expanded="True">
+            <Node name="PermanYagmyrov3131A" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

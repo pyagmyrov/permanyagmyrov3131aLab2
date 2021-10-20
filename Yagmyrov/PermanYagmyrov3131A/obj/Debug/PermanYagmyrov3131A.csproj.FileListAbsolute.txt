@@ -1,0 +1,12 @@
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/bin/Debug/PermanYagmyrov3131A.exe.config
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/bin/Debug/PermanYagmyrov3131A.exe
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/bin/Debug/PermanYagmyrov3131A.pdb
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/bin/Debug/OpenTK.dll
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/bin/Debug/OpenTK.pdb
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/bin/Debug/OpenTK.xml
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/obj/Debug/PermanYagmyrov3131A.csproj.AssemblyReference.cache
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/obj/Debug/PermanYagmyrov3131A.exe.config
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/obj/Debug/PermanYagmyrov3131A.csproj.CoreCompileInputs.cache
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/obj/Debug/PermanYagmyrov3131A.csproj.CopyComplete
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/obj/Debug/PermanYagmyrov3131A.exe
+/Users/pyagmyrov/Developer/egc/Yagmyrov/PermanYagmyrov3131A/obj/Debug/PermanYagmyrov3131A.pdb
